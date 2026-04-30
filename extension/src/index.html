@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { width: 300px; padding: 15px; font-family: sans-serif; background: #1a1a1a; color: white; }
+        .btn { background: #2563eb; color: white; border: none; padding: 10px; width: 100%; border-radius: 5px; cursor: pointer; margin-bottom: 10px; }
+        .status { font-size: 12px; color: #9ca3af; text-align: center; }
+    </style>
+</head>
+<body>
+    <h3>AI Coach: Eiffel Tower Project</h3>
+    <button id="captureBtn" class="btn">🚀 Start Live Guidance</button>
+    <p class="status">AI is ready to monitor your screen</p>
+    
+    <!-- This is the popup dialog that will guide you -->
+    <div id="guideBox" style="display:none; border-top: 1px solid #374151; pt-10;">
+        <p id="aiInstruction">Choose a screen to begin building.</p>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>
