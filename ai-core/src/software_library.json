@@ -1,0 +1,14 @@
+{
+  "supported_domains": {
+    "design": ["AutoCAD", "Revit", "SketchUp", "SolidWorks"],
+    "creative": ["Photoshop", "Illustrator", "After Effects", "Blender"],
+    "coding": ["VS Code", "GitHub", "Terminal", "Sublime"],
+    "research": ["Scholar", "ArXiv", "Global Archives"]
+  },
+  "capabilities": {
+    "translation": "Real-time technical-to-simple language conversion",
+    "marking": "On-screen guidance markers (Rings, Arrows, Pulses)",
+    "error_detection": "Immediate notification if user clicks wrong tool"
+  },
+  "global_protection": "Active VPN & IP Masking for all sessions"
+}
