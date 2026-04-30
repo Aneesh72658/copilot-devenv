@@ -1,14 +1,58 @@
 {
+  "project_meta": {
+    "name": "Copilot Dev Environment",
+    "vision": "Democratize technical expertise for non-technical geniuses",
+    "version": "1.0.0",
+    "global_hosting": "Ready"
+  },
+  "security_layer": {
+    "ip_masking": "Active",
+    "vpn_service": "Integrated Global Tunnel",
+    "user_protection": "Full identity anonymization during screen capture"
+  },
   "supported_domains": {
-    "design": ["AutoCAD", "Revit", "SketchUp", "SolidWorks"],
-    "creative": ["Photoshop", "Illustrator", "After Effects", "Blender"],
-    "coding": ["VS Code", "GitHub", "Terminal", "Sublime"],
-    "research": ["Scholar", "ArXiv", "Global Archives"]
+    "design_3d": {
+      "software": ["AutoCAD", "Revit", "SketchUp", "SolidWorks", "Blender"],
+      "capabilities": ["Guided 3D modeling", "Structural integrity checking", "Blueprint translation"]
+    },
+    "creative_arts": {
+      "software": ["Photoshop", "Illustrator", "InDesign", "Canva", "Figma"],
+      "capabilities": ["Layer management guidance", "Color theory suggestions", "AI-assisted sketching"]
+    },
+    "video_production": {
+      "software": ["Premiere Pro", "DaVinci Resolve", "Final Cut Pro", "After Effects"],
+      "capabilities": ["Timeline editing help", "Color grading coaching", "AI visual effects application"]
+    },
+    "music_production": {
+      "software": ["Ableton Live", "FL Studio", "Logic Pro", "Audacity", "GarageBand"],
+      "capabilities": ["Beat arrangement", "Instrument identification", "Mixing and mastering guidance"]
+    },
+    "coding_and_web": {
+      "software": ["VS Code", "GitHub", "Terminal", "Sublime Text", "Postman"],
+      "capabilities": ["Plain English code explanation", "Repository navigation", "Bug detection"]
+    },
+    "research_and_data": {
+      "platforms": ["Google Scholar", "ArXiv", "Global Scientific Archives", "Wikipedia"],
+      "capabilities": ["Complex jargon translation", "Source verification", "Data organization"]
+    }
   },
-  "capabilities": {
-    "translation": "Real-time technical-to-simple language conversion",
-    "marking": "On-screen guidance markers (Rings, Arrows, Pulses)",
-    "error_detection": "Immediate notification if user clicks wrong tool"
+  "ai_assistance_tools": {
+    "visual_guidance": {
+      "marking_types": ["Glowing Rings", "Directional Arrows", "Pulse Indicators"],
+      "interactive_elements": ["Popup Dialog Boxes", "Screen Overlay Hints"]
+    },
+    "linguistics": {
+      "languages": "Universal (Support for all global languages)",
+      "mode": "Technical-to-Simple Translation"
+    },
+    "multiscreen_engine": {
+      "feature": "Intelligent Screen Capture Selection",
+      "logic": "User-prompted monitor choice for application targeting"
+    }
   },
-  "global_protection": "Active VPN & IP Masking for all sessions"
+  "system_requirements": {
+    "browser": "AI-Assisted Extension (Manifest V3)",
+    "pc_integration": "Desktop Agent (Node.js based)",
+    "connectivity": "Secure VPN Tunnel Required"
+  }
 }
